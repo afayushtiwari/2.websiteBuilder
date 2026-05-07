@@ -93,7 +93,12 @@ Designed with scalability, responsiveness, and clean UI/UX principles.
 # 📸 Project Preview
 
 <p align="center">
-  <img src="./websitebuilder-preview.png" width="1000"/>
+ <img width="1856" height="910" alt="image" src="https://github.com/user-attachments/assets/a935283f-633d-4f62-bc9e-bd77412b0d93" />
+ <img width="1845" height="698" alt="image" src="https://github.com/user-attachments/assets/72e062fe-e72d-43e3-8906-1685a4c3d5db" />
+ <img width="1852" height="885" alt="image" src="https://github.com/user-attachments/assets/08ef9ea6-20e0-43ab-9b95-cbfa808bb99b" />
+
+
+
 </p>
 
 > Replace `websitebuilder-preview.png` with your uploaded screenshot.
@@ -108,7 +113,6 @@ Designed with scalability, responsiveness, and clean UI/UX principles.
 |---|---|
 | Frontend | https://two-websitebuilder-frontend.onrender.com |
 | Backend API | https://two-websitebuilder-backend-gmcb.onrender.com |
-| GitHub Repo | https://github.com/afayushtiwari/2.websiteBuilder |
 
 </div>
 
