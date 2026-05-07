@@ -101,7 +101,7 @@ Designed with scalability, responsiveness, and clean UI/UX principles.
 
 </p>
 
-> Replace `websitebuilder-preview.png` with your uploaded screenshot.
+
 
 ---
 
